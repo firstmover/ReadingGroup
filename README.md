@@ -36,6 +36,12 @@ Horowitz et al., CVPR 2025
 [[`paper`](https://arxiv.org/pdf/2410.13569)]
 [[`blog`](https://horwitz.ai/probex)]
 
+Bayesian Image Super-Resolution
+\
+Michael E. Tipping and Christopher M. Bishop, Advances in neural information processing systems 15 (2002).
+\
+[[`paper`](https://proceedings.neurips.cc/paper_files/paper/2002/file/88bfcf02e7f554f9e9ea350b699bc6a7-Paper.pdf)
+
 ## Past Meetings
 
 ### Spring 2025
